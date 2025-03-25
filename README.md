@@ -10,10 +10,9 @@ This repository contains a project to recognise the fingerspelled letters of Ame
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Project Structure](#project-structure)
-6. [Datasets](#datasets)
-7. [Model Architecture](#model-architecture)
-8. [Results](#results)
+5. [Datasets](#datasets)
+6. [Model Architecture](#model-architecture)
+7. [Results](#results)
 ---
 
 ## Introduction
@@ -80,34 +79,6 @@ ASL is a visual language used widely in the Deaf community. Fingerspelling uses 
      python inference.py --video
      ```
      for real-time prediction.
-
----
-
-## Project Structure
-
-```plaintext
-ASL-Fingerspelling/
-├── data/
-│   ├── train/
-│   ├── val/
-│   ├── test/
-│   └── ...
-├── models/
-│   └── saved_model.h5
-├── notebooks/
-│   └── ASL_Fingerspelling.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model.py
-│   └── inference.py
-├── requirements.txt
-├── README.md
-```
-
-- **data/**: Training, validation, and test images.
-- **models/**: Trained model checkpoints or saved weights.
-- **notebooks/**: Jupyter notebooks for exploration and training.
-- **src/**: Core Python scripts for data loading, model building, inference, etc.
 
 ---
 

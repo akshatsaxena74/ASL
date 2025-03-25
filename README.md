@@ -78,7 +78,7 @@ ASL is a visual language used widely in the Deaf community. Fingerspelling uses 
      ```bash
      python inference.py --video
      ```
-     for real-time prediction.
+     For real-time prediction.
 
 ---
 
@@ -106,3 +106,9 @@ Common sources include:
 - **Test Accuracy**: 93%
   
 ---
+
+## Contributors
+- ** Akshay Reddy
+- ** Akshat Srivastava
+- ** Akshat Saxena
+- ** Akshat Swarup

@@ -108,7 +108,7 @@ Common sources include:
 ---
 
 ## Contributors
-- ** Akshay Reddy
-- ** Akshat Srivastava
-- ** Akshat Saxena
-- ** Akshat Swarup
+- **Akshay Reddy*
+- **Akshat Srivastava*
+- **Akshat Saxena*
+- **Akshat Swarup*

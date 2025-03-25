@@ -14,10 +14,6 @@ This repository contains a project aimed at recognizing the fingerspelled letter
 6. [Datasets](#datasets)
 7. [Model Architecture](#model-architecture)
 8. [Results](#results)
-9. [Contributing](#contributing)
-10. [License](#license)
-11. [Contact](#contact)
-
 ---
 
 ## Introduction

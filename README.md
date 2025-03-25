@@ -1,6 +1,6 @@
 # ASL Fingerspelling Recognition
 
-This repository contains a project to recognise the fingerspelled letters of American Sign Language (ASL) from images or video frames. By training a machine learning model on labeled images of each letter, users can predict the corresponding English alphabet character.
+This repository contains a project to recognise the fingerspelled letters of American Sign Language (ASL) from images or video frames. By training a machine learning model on labelled images of each letter, users can predict the corresponding English alphabet character.
 
 ---
 
@@ -108,4 +108,4 @@ Common sources include:
 ---
 
 ## Contributors 
-*Akshay Reddy*, *Akshat Srivastava*, *Akshat Saxena* & *Akshat Swarup*
+Akshay Reddy, Akshat Srivastava, Akshat Saxena & Akshat Swarup

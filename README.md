@@ -1,6 +1,6 @@
 # ASL Fingerspelling Recognition
 
-This repository contains a project aimed at recognizing the fingerspelled letters of American Sign Language (ASL) from images or video frames. By training a machine learning model on labeled images of each letter, users can predict the corresponding English alphabet character.
+This repository contains a project to recognise the fingerspelled letters of American Sign Language (ASL) from images or video frames. By training a machine learning model on labeled images of each letter, users can predict the corresponding English alphabet character.
 
 ---
 
@@ -18,7 +18,7 @@ This repository contains a project aimed at recognizing the fingerspelled letter
 
 ## Introduction
 
-ASL is a visual language used widely in the Deaf community. Fingerspelling uses hand shapes to represent letters of the English alphabet. This project demonstrates how to train a convolutional neural network (CNN) or use transfer learning to classify these ASL signs with high accuracy.
+ASL is a visual language used widely in the Deaf community. Fingerspelling uses hand shapes to represent letters of the English alphabet. This project demonstrates how to train a convolutional neural network (CNN) or use transfer learning to classify these ASL signs accurately.
 
 ---
 
@@ -102,7 +102,6 @@ ASL-Fingerspelling/
 │   └── inference.py
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 ```
 
 - **data/**: Training, validation, and test images.
